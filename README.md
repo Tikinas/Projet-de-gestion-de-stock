@@ -118,8 +118,3 @@ Résultat attendu :
 > Pr. CHAABANE Djamal – Université des Sciences et de la Technologie Houari Boumediene  
 
 ---
-
-## 📜 Licence
-
-Projet académique réalisé dans le cadre de la **Licence Recherche Opérationnelle – USTHB**.  
-Usage libre pour l’apprentissage et la recherche.
